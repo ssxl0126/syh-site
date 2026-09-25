@@ -1,0 +1,16 @@
+关西集章旅行 · 素材与字体来源
+
+人物、音乐、音效：Ninja Adventure Asset Pack，by Pixel-boy & AAA
+  https://pixel-boy.itch.io/ninja-adventure-asset-pack
+  CC0 1.0（放弃版权）
+
+对话字体：GNU Unifont
+  https://unifoundry.com/unifont/
+  SIL Open Font License 1.1
+
+标签字体：缝合像素 Fusion Pixel Font 12px，by TakWolf
+  https://github.com/TakWolf/fusion-pixel-font
+  SIL Open Font License 1.1
+
+以上字体只截取了游戏里用到的字，内嵌在 index.html 中。
+场景画面为程序绘制。
